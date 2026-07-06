@@ -212,7 +212,7 @@ Cognifyz-Restaurant-Data-Analysis/
 
 ## Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
@@ -220,25 +220,25 @@ Cognifyz-Restaurant-Data-Analysis/
 
 ## Table Booking Analysis
 
-![Table Booking Analysis](images/level2_task1_table_booking.png)
+![Table Booking Analysis](level2_task1_table_booking.png)
 
 ---
 
 ## Price Range Analysis
 
-![Price Range Analysis](images/level2_task2_price_range_analysis.png)
+![Price Range Analysis](level2_task2_price_range_analysis.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](images/level3_task1_feature_importance.png)
+![Feature Importance](level3_task1_feature_importance.png)
 
 ---
 
 ## Actual vs Predicted Ratings
 
-![Actual vs Predicted Ratings](images/level3_task1_actual_vs_predicted.png)
+![Actual vs Predicted Ratings](level3_task1_actual_vs_predicted.png)
 
 ---
 
